@@ -1,0 +1,6 @@
+streamlit
+praw
+pandas
+requests
+beautifulsoup4
+tqdm
